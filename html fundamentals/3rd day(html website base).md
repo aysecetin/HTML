@@ -1,5 +1,5 @@
  
-# HTML Website base
+# HTML Website Base
 
 - Although it is true that you can write any HTML you want and customize your website, there are some tags that you must include and some that you definitely should include. Every time you start to write an HTML document, your setup should look like this:
 
