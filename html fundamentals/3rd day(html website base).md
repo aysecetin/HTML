@@ -3,7 +3,7 @@
 
 - Although it is true that you can write any HTML you want and customize your website, there are some tags that you must include and some that you definitely should include. Every time you start to write an HTML document, your setup should look like this:
 
-```html5
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -19,7 +19,7 @@ Let's analyze and explain this.
 
 The first tag we see is:
 
-```html5
+```html
 <!DOCTYPE html>
 ```
 
@@ -28,7 +28,7 @@ The first tag we see is:
 
 The next tag is:
 
-```html5
+```html
 <html> </html>
 ```
 
@@ -37,7 +37,7 @@ The next tag is:
 
 The next tag is:
 
-```html5
+```html
 <head> </head>
 ```
 - This tag is literally the head of the website. It goes inside the <html> tag. There is some content that we will be putting in this tag, but all of the HTML we write in the head will not be a visual element on the website. The head tag is there to write tags that give information about the website, and it is mostly used by the actual browser, not to put visual elements on the website.
@@ -47,7 +47,7 @@ The next tag is:
 
 The next tag is:
 
-```html5
+```html
 <body> </body>
 ```
 
