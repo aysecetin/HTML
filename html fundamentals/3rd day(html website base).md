@@ -44,4 +44,13 @@ The next tag is:
 - This tag is literally the head of the website. It goes inside the <html> tag. There is some content that we will be putting in this tag, but all of the HTML we write in the head will not be a visual element on the website. The head tag is there to write tags that give information about the website, and it is mostly used by the actual browser, not to put visual elements on the website.
 
 
+The next tag is:
+
+```html
+<body> </body>
+```
+
+- This tag is literally the body of the website. It goes inside the html tag, and it includes all the visual content of the website. Every element that you want to add should be written here. You can add text, buttons, and any other element you can think of. This is the visual part of the website that users will see.
+
+
 
