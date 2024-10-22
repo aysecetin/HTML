@@ -45,12 +45,3 @@ The next tag is:
 
 
 
-
-The next tag is:
-
-```html
-<body> </body>
-```
-
-- This tag is literally the body of the website. It goes inside the html tag, and it includes all the visual content of the website. Every element that you want to add should be written here. You can add text, buttons, and any other element you can think of. This is the visual part of the website that users will see.
-
